@@ -1,0 +1,6 @@
+.idea
+data
+metastore_db
+spark-warehouse
+dependency.log
+derby.log
